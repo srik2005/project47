@@ -1,0 +1,19 @@
+if(enemy1.isTouching(wall)){
+  enemy1.bounceOff(wall)
+  console.log("hello")
+   }
+   if(enemy2.isTouching(wall)){
+    enemy2.bounceOff(wall)
+    console.log("hello")
+    
+     }
+     if(enemy3.isTouching(wall)){
+      enemy3.bounceOff(wall)
+      console.log("hello")
+      
+       }
+       if(enemy4.isTouching(wall)){
+        enemy4.bounceOff(wall)
+        console.log("hello")
+        
+         }
